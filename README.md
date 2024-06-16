@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Technologies Used
+
+1.React: For building the user interface.
+2.MUI (Material-UI): For UI components and styling.
+3.Redux: For state management.
+4.Axios: For making HTTP requests to fetch weather data.
+5.Open Weather API: As the source of weather data.
+6.Styled Components: For styling some components.
+
+### Website Preview
+![Screenshot 2024-06-17 012916](https://github.com/shadoeee/weather-app/assets/109212051/672b1432-6d55-4378-ba69-18e688ee4f88)
+
+### White Theme
+![Screenshot 2024-06-17 013105](https://github.com/shadoeee/weather-app/assets/109212051/ed93c7cb-7d45-455c-aa22-3148fd894860)
+
+### Dark Theme
+![Screenshot 2024-06-17 013206](https://github.com/shadoeee/weather-app/assets/109212051/0a99b5c1-c3b2-4fd9-995c-f223910e1c08)
+
+### Deployed URL Link
+This Weather App project is Hosted Via Netlify WeatherSearch (https://mellifluous-ganache-29dded.netlify.app/) 
+
+
